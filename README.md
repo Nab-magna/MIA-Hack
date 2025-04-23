@@ -12,7 +12,7 @@ We're working with 4 datasets from [MedMNIST](https://medmnist.com/), a benchmar
 
 | Dataset         | Type             | Task                        | Classes |
 |----------------|------------------|-----------------------------|---------|
-| OCTMNIST        | Retinal (OCT)     | Binary (normal vs disease)  | 2       |
+| OCTMNIST        | Retinal (OCT)     | Binary (normal vs disease)  | 4       |
 | PneumoniaMNIST  | Chest X-rays      | Binary (pneumonia vs normal)| 2       |
 | RetinaMNIST     | Fundus images     | Multiclass (DR grading)     | 5       |
 | BreastMNIST     | Ultrasound        | Binary (benign vs malignant)| 2       |
